@@ -1,0 +1,15 @@
+baseurl = "http://auburnjudo.club"
+languageCode = "en-us"
+title = "Auburn Judo Club"
+canonifyUrls = "true"
+theme = "landing-page-hugo"
+
+[params]
+    description = "Judo for life!"
+    custom_css = ["css/local.css"]
+
+[[params.social]]
+    title = "email"
+    icon = "envelope-o"
+    url = "mailto:william.s.hayes@gmail.com"
+
