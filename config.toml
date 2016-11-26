@@ -11,5 +11,5 @@ theme = "landing-page-hugo"
 [[params.social]]
     title = "email"
     icon = "envelope-o"
-    url = "mailto:william.s.hayes@gmail.com"
+    url = "mailto:jboisvere@charter.net"
 
