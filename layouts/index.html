@@ -1,0 +1,34 @@
+<!DOCTYPE HTML>
+<html lang="{{ .Language }}">
+    <head>
+        {{- partial "head/head.html" . -}}
+        {{- template "_internal/opengraph.html" . -}}
+    </head>
+    <body class="is-preload">
+        {{- partial "analytics/google-tag-manager/body.html" . }}
+        <div id="page-wrapper">
+            {{- partial "header.html" . }}
+
+
+            {{- if .Site.Data.homepage.banner.enable }}
+                {{- partial "homepage/banner.html" .Site.Data.homepage.banner -}}
+            {{- end }}
+
+            <section class="wrapper style2">
+                <div class="container">
+                    <header>
+                        <h2>Overview</h2>
+                        <p>This is an adults only Judo club - you must be 16 years or older.</p>
+                    </header>
+                </div>
+            </section>
+
+            {{- range .Site.Data.homepage.items }}
+                {{- partial (printf "homepage/blocks/%s.html" .type) (dict "ctx" $ "item" .) }}
+            {{- end }}
+
+            {{- partial "footer/footer.html" . -}}
+        </div>
+        {{- partial "scripts.html" . -}}
+    </body>
+</html>

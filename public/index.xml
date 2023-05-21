@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Auburn Judo Club</title>
+    <link>http://example.org/</link>
+    <description>Recent content in Home on Auburn Judo Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Get Started</title>
+      <link>http://example.org/get_started/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/get_started/</guid>
+      <description>Step 1 Come to a few classes to see if you like it.
+Please contact Club Secretary to arrange a visit since we sometimes have to cancel classes due to holidays or other events. We can also answer any questions you may have and make sure you have the right clothing for your first class.
+Classes are held on Wednesday evenings from 6-8pm and Saturday mornings from 9-11am.
+Step 2 If you like it, you can join the club.</description>
+    </item>
+    
+    <item>
+      <title>Classes</title>
+      <link>http://example.org/classes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/classes/</guid>
+      <description>Wednesday 6-8pm Saturday 9-11am The address is: Auburn Sportsman’s Club Inc. 50 Elm St. Auburn, Ma. 01501 Classes are held in the Meeting Hall .
+The cost to join is $125 per year Just the cost of the membership to the Auburn Sportsman&amp;rsquo;s Club. The process to apply is listed here.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>Shihan (Master Instructor) Jean Thebeau Picture of Jean Thebeau
+Bio of Jean Thebeau
+Instructors Picture of instructors
+Bio of instructors
+Location Classes are held in the . The address is:
+Auburn Sportsman’s Club Inc. 50 Elm St. Auburn, Ma. 01501 </description>
+    </item>
+    
+  </channel>
+</rss>
