@@ -10,11 +10,6 @@ Picture of Jean Thebeau
 
 Bio of Jean Thebeau
 
-## Instructors
-
-Picture of instructors
-
-Bio of instructors
 
 ## Location
 

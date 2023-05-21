@@ -4,7 +4,7 @@ banner:
   contents: "_Non-competitive, relaxed, do what you can! Judo Club_"
   button:
     contents: "Get Started"
-    url: "/get-started"
+    url: "/get_started"
 items:
   - type: highlights
     items_per_row: 3
@@ -34,4 +34,4 @@ items:
     contents: Are you ready to learn judo?
     button:
       contents: Carpe Judoka!
-      url: ""
+      url: "/get_started"
