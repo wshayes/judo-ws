@@ -16,7 +16,7 @@ weight: 20
 
 ### Classes are held in the Meeting Hall
 
-![Auburn Sportsman's Club Meeting Hall](https://auburnsportsmansclub.com/wp-content/uploads/2023/04/hallimage-768x1024.jpg).
+Auburn Sportsman's Club Meeting Hall
 
 ### The cost to join is $125 per year 
 
