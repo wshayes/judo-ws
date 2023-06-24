@@ -2,7 +2,7 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Auburn Judo Club'
 
-theme = 'arcana'
+theme = ["arcana", "hugo-shortcode-gallery"]
 
 
 [taxonomies]

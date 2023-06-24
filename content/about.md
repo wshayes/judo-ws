@@ -6,7 +6,7 @@ weight: 50
 
 ## Shihan (Master Instructor) Jean Thebeau
 
-Picture of Jean Thebeau
+![Jean Thebeau](/images/Master_Jean_250x250.png)
 
 Bio of Jean Thebeau
 
