@@ -1,6 +1,6 @@
 banner:
   enable: true
-  image: "images/judo_banner_whitebg.png"
+  image: "images/judo_banner_whitebg.jpg"
   contents: "_Non-competitive, relaxed, do what you can!_"
   button:
     contents: "Get Started"
